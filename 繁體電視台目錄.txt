@@ -1197,6 +1197,8 @@ WarnerTV
 三立綜合臺
 ARIRANG阿里郎頻道
 東森購物四臺
+Nick Jr. 兒童頻道
+DreamWorks 夢工廠動畫
 靖天卡通臺
 靖洋卡通Nice Bingo
 東森購物一臺
@@ -1204,33 +1206,48 @@ ARIRANG阿里郎頻道
 三立新聞iNEWS
 TVBS新聞
 中視新聞
+Bloomberg TV
 SBN全球財經臺
 東森購物二臺
 KLT-靖天國際臺
 韓國娛樂臺 KMTV
+Lifetime 娛樂頻道
+TRACE Urban
 FashionTV 時尚頻道
+CLASSICA 古典樂
 東森購物三臺
 智林體育臺
 時尚運動X
 車迷TV
+GINX Esports TV
+Pet Club TV
 民視旅遊臺
 滾動力rollor
+fun探索娛樂臺
+Love Nature
+History 歷史頻道
 愛爾達生活旅遊臺
 LUXE TV Channel
 MagellanTV頻道 (麥哲倫頻道) 
 ROCK Xstream搖滾極限頻道
+HITS頻道
 靖天戲劇臺
-GagaOOLala 精選LGBTQ+好劇
+CI 罪案偵查頻道
+視納華仁紀實頻道
 My Cinema Europe HD 我的歐洲電影
+好消息
 好消息2臺
 NHK WORLD-JAPAN
 FRANCE24 英文臺
 半島國際新聞臺
-TVBS綜藝臺
-TVBS臺劇臺
+CNBC Asia 財經臺
+DW德國之聲
 經典電影臺
 經典卡通臺
 精選動漫臺
+GagaOOLala 精選LGBTQ+好劇
+TVBS綜藝臺
+TVBS臺劇臺
 市井豪門-FastTV飛速看
 華視好劇-FastTV飛速看
 公視好劇-FastTV飛速看
@@ -1322,7 +1339,6 @@ FOOD超人-FastTV飛速看
 怪獸之王-FastTV飛速看
 東離劍遊紀-FastTV飛速看
 MOMO親子精選-FastTV飛速看
-好消息
 Smart知識臺
 龍華戲劇臺
 臺灣戲劇臺
@@ -1856,7 +1872,6 @@ Astro_Arena_2
 Arena_Bola
 Arena_Bola_2
 Astro_Sports_UHD_805
-Astro_Sports_Plus_2
 Astro_Grandstand
 Astro_Premier_League
 Astro_Premier_League_2
@@ -1947,7 +1962,6 @@ Kids TV
 Kids TV HD
 Kompas TV
 LIFE
-Love Nature
 MDTV
 Metro TV
 MNCTV
@@ -2007,6 +2021,7 @@ Sony Entertainment
 5534
 5535
 Zee Cinema
+5536
 iChannel
 Vasantham
 Hi TV
@@ -2067,6 +2082,7 @@ Aditya TV
 GMA Life TV
 Nickelodeon Asia
 ABS-CBN
+Suria
 Ch U
 5511
 5512
@@ -2082,6 +2098,7 @@ TLC
 5252
 BBC Lifestyle
 Asian Food Network
+5006
 Colors
 STAR Plus
 inspirasi
