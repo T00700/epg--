@@ -445,6 +445,7 @@ tvN
 無線衛星亞洲臺
 創世電視 (免費)
 FashionBox
+Mezzo Live HD
 中央電視臺綜合頻道 (港澳版) (免費)
 CGTN (中國環球電視網)記錄頻道 (免費)
 CGTN (中國環球電視網)英語頻道 (免費)
@@ -1154,7 +1155,7 @@ WarnerTV
 尼克兒童頻道
 影迷數位紀實臺
 影迷數位電影臺
-愛爾達娛樂臺
+愛爾達寵物運動臺
 愛爾達影劇臺
 愛爾達日韓臺
 愛爾達綜合臺
@@ -1186,6 +1187,7 @@ WarnerTV
 中視
 華視
 三立綜合臺
+愛爾達娛樂臺
 ARIRANG阿里郎頻道
 東森購物四臺
 Nick Jr. 兒童頻道
@@ -1205,7 +1207,6 @@ KLT-靖天國際臺
 Lifetime 娛樂頻道
 TRACE Urban
 FashionTV 時尚頻道
-Mezzo Live HD
 CLASSICA 古典樂
 東森購物三臺
 智林體育臺
