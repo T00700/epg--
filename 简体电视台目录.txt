@@ -1187,7 +1187,6 @@ WarnerTV
 中视
 华视
 三立综合台
-爱尔达娱乐台
 ARIRANG阿里郎频道
 东森购物四台
 Nick Jr. 儿童频道
@@ -1206,7 +1205,6 @@ KLT-靖天国际台
 韩国娱乐台 KMTV
 Lifetime 娱乐频道
 TRACE Urban
-FashionTV 时尚频道
 CLASSICA 古典乐
 东森购物三台
 智林体育台
