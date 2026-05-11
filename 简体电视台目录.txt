@@ -1207,6 +1207,8 @@ Lifetime 娱乐频道
 TRACE Urban
 CLASSICA 古典乐
 东森购物三台
+博斯高球台
+博斯魅力台
 智林体育台
 时尚运动X
 车迷TV
@@ -1712,9 +1714,11 @@ Astro_Arena_2
 Arena_Bola
 Arena_Bola_2
 Astro_Sports_UHD_805
+Astro_Premier_League_4
 Astro_Grandstand
 Astro_Premier_League
 Astro_Premier_League_2
+Astro_Premier_League_3
 Astro_Football
 Astro_Badminton
 Astro_Sports_Plus
